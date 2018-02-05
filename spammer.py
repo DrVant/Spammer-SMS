@@ -1,9 +1,9 @@
 #!/usr/bin/python
 
-# - Spammer v3.0
+# - Spammer V alpha
 # | Description: spams a phone number by sending it a lot of sms by using Grab API
-# | Author: P4kL0nc4t
-# | Date: 06/01/2018
+# | Author: DrVant
+# | Date: 18/11/2017
 # | Disclaimer: Editing author will not make you the real coder
 # | What's New?
 # | - Added coloring
